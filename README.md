@@ -105,7 +105,7 @@ After setting environment variables, restart IntelliJ IDEA.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VirajKotawadekar/Student_ManagementSystem.git
+https://github.com/virajkotawadekar/Student-Management-System.git
 ```
 
 2. Open the project in IntelliJ IDEA.
